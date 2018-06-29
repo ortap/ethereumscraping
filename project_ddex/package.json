@@ -1,0 +1,19 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python2": "0.0.1",
+    "bignumber.js": "^6.0.0",
+    "mongodb": "^3.0.4",
+    "request": "^2.85.0",
+    "web3": "^1.0.0-beta.34"
+  }
+}
